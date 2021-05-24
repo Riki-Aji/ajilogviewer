@@ -8,13 +8,11 @@ AjiLogViewer offers a few key features:
  
 ## Installation
  
-Here's how you track your website with Quickmarks:
- 
-TODO: **ADD INFO**
+TODO: use `git clone` or download zip
  
 ## Usage
  
-TODO: use `git clone` or download zip
+TODO: parser.py >> output.txt
  
 ## Contributing
  
