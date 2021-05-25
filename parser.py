@@ -1,7 +1,3 @@
-"""
-Sample log file parser which will parse the log file, get the IP addressed with their count frequency and export the data to a csv file
-"""
-
 import re
 import csv
 import sys
