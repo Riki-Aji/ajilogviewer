@@ -24,7 +24,7 @@ TODO: parser.py >> output.txt
  
 ## Credits
  
-Cyber Security Consultant - Riki Aji
+Riki Aji
  
 ## License
  
